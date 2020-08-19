@@ -3,19 +3,19 @@
 
 ### Collumns
 
-[Articles](https://lwflouisa.github.io/HAArticles/)
-[Calligraphy](https://lwflouisa.github.io/HACalligraphy/)
-[Campaigns](https://lwflouisa.github.io/HACampaigns/)
-[ChatBot](https://lwflouisa.github.io/HAChatBot/)
-[Essays](https://lwflouisa.github.io/HAEssays/)
+[Articles](https://lwflouisa.github.io/HAArticles/)<br />
+[Calligraphy](https://lwflouisa.github.io/HACalligraphy/)<br />
+[Campaigns](https://lwflouisa.github.io/HACampaigns/)<br />
+[ChatBot](https://lwflouisa.github.io/HAChatBot/)<br />
+[Essays](https://lwflouisa.github.io/HAEssays/)<br />
 [Memoirs](https://lwflouisa.github.io/HAMemoirs/)<br />
-[Modeling](https://lwflouisa.github.io/HAModeling/)
-[Music](https://lwflouisa.github.io/HAMusic/)
-[Photography](https://lwflouisa.github.io/HAPhotography/)
-[Poetry](https://lwflouisa.github.io/HAPoetry/)
+[Modeling](https://lwflouisa.github.io/HAModeling/)<br />
+[Music](https://lwflouisa.github.io/HAMusic/)<br />
+[Photography](https://lwflouisa.github.io/HAPhotography/)<br />
+[Poetry](https://lwflouisa.github.io/HAPoetry/)<br />
 [Recipes](https://lwflouisa.github.io/HARecipes/)<br />
-[Sequential Art](https://lwflouisa.github.io/HASequentialArt/)
-[Serial Fiction](https://lwflouisa.github.io/HASerialFiction/)
+[Sequential Art](https://lwflouisa.github.io/HASequentialArt/)<br />
+[Serial Fiction](https://lwflouisa.github.io/HASerialFiction/)<br />
 [Short Stories](https://lwflouisa.github.io/HAShortStories/)
 
 ### License
